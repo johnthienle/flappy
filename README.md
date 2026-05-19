@@ -1,4 +1,4 @@
-Simple implementation of a Flappy Bird clone, created in OpenGL, served as a means to learn the basics of OpenGL rendering.
+Simple implementation of a Flappy Bird clone, made in C++, rendered in OpenGL, served as a means to learn the basics of OpenGL rendering.
 
 The goal of the game is to "flap" through as many pipes as possible.
 
