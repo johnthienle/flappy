@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+out/
+*.user
+*.suo
+
+# Build output
+build/
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
